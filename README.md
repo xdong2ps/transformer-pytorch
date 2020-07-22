@@ -1,4 +1,3 @@
-
 # Transformer
 
 This is a pytorch implementation of the
